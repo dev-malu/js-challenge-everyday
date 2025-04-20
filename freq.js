@@ -11,3 +11,4 @@ let arr = [1, 2, 1, 4, 32, 1, 31, 1, 9, 1];
 let ar = arr.filter((v) => v === 1).length;
 
 console.log(ar);
+
